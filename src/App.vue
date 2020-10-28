@@ -3,8 +3,7 @@
     <header class="App-header">
       <img src="/logo.svg" class="App-logo" alt="logo" />
       <p>
-        Edit
-        <code>src/App.vue</code> and save to reload.
+        This should autodeploy!
       </p>
       <a
         class="App-link"
@@ -20,7 +19,7 @@
 export default {
   data() {
     return {
-      message: "Learn Vue 😀"
+      message: "Netlify works flawlessly 😀"
     };
   }
 };
