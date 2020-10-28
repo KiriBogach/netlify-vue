@@ -20,7 +20,7 @@
 export default {
   data() {
     return {
-      message: "Learn Vue"
+      message: "Learn Vue 😀"
     };
   }
 };
